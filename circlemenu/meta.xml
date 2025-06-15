@@ -1,0 +1,6 @@
+<meta>
+	   <info name="Circle Menu" author="Victor" version="1.0" email="viktorpaliidev@gmail.com" />
+       <file src="penisil.png" />
+          <file src="tools.png" />
+    <script src="client.lua" type="client" />
+</meta>
